@@ -1,2 +1,2 @@
 # CucumberAutomation
-This repo for develop Simple Automation for Cucumber automation
+This repository for develop Simple Automation for Cucumber automation
